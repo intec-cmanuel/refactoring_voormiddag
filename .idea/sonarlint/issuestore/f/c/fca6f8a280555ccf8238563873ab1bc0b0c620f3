@@ -1,0 +1,10 @@
+
+h
+java:S1104"RMake immuun a static final constant or non-public and provide accessors if needed.(’¶İ
+0
+java:S1220""Move this file to a named package.
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â‡À¿
+h	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İáíùÿÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(€úòÇøÿÿÿÿ
+\
+java:S1126+"AReplace this if-then-else statement by a single return statement.(Á·§òùÿÿÿÿ
